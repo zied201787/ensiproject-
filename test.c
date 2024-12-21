@@ -432,7 +432,7 @@ void shopping(queuu* queue) {
 }
 
 void delivery_cli_cli(queuu* basket) {
-    static int deliveryId = 1;  // Static variable to keep track of the ID and increment it automatically
+     
     Delivery delivery;
 
     // Assign the auto-generated ID to the delivery
